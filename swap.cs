@@ -19,8 +19,6 @@ namespace Test
 
             Console.WriteLine($"x is now {x}");
             Console.WriteLine($"y is now {y}");
-
-            Console.WriteLine("Something new");
         }
     }
 }
