@@ -6,7 +6,7 @@ namespace Test
     {
         public static void Main(string[] args)
         {
-            int x = 28;
+            int x = 31;
             int y = 50;
 
             Console.WriteLine($"x is {x}");
