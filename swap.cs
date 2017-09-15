@@ -13,6 +13,9 @@ namespace Test
             Console.WriteLine($"y is {y}");
 
             // swapping...
+            int temp = x;
+            x = y;
+            y = temp;
 
             Console.WriteLine($"x is now {x}");
             Console.WriteLine($"y is now {y}");
